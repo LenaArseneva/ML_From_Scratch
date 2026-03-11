@@ -29,5 +29,6 @@ pip install -e .
 
 Implement logistic regression with batches, conjugate gradient and local curvature estimation. This should speed up logistic regression over big datasets.
 
+⭐ If this repo helped you, please star it
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.repo)
